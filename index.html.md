@@ -1,5 +1,3 @@
-# Stopping-A-Bike
-
 <!DOCTYPE html>
 <html>
 <body>
