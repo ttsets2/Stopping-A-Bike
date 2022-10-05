@@ -8,6 +8,6 @@
 <p>But upon a turn I came upon.</p>
 <p>Beyond it's unhidden borders, a cliff splayed out.</p>
 <p>A panic fell upon me as I gazed opun the abyss.</p>
-<a href="https://www.w3schools.com/">Chapter 2</a>
+<a href="https://github.com/ttsets2/Stopping-A-Bike/blob/main/Chapter2.html.md">Chapter 2</a>
 </body>
 </html>

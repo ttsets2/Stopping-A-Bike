@@ -8,6 +8,6 @@
 <p>Nothing...</p>
 <p>PANIC! PANIC FILLED ME AS I REALIZED TOO LATE!</p>
 <p>The brakes... did not work.</p>
-<a href="https://www.w3schools.com/">Chapter 3</a>
+<a href="https://github.com/ttsets2/Stopping-A-Bike/blob/main/Chapter3.html.md">Chapter 3</a>
 </body>
 </html>
