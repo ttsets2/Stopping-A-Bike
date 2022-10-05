@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>Stopping a Bike</h1>
-<h2>Chapter 3: Awakening
+<h2>Chapter 3: Awakening</h2>
 <p>Pain, all I felt was pain as I gripped my head in agony.</p>
 <p>My memory was empty as I tried to remember.</p>
 <p>The impact I could not remember, only the moments prior.</p>
